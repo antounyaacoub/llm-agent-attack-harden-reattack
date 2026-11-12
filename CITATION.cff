@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the chapter."
+title: "Attack, Harden, Re-Attack: code, data and results"
+authors:
+  - family-names: Yaacoub
+    given-names: Antoun
+    affiliation: "aivancity School of AI & Data for Business & Society"
+  - family-names: Ammar
+    given-names: Doreid
+    affiliation: "aivancity School of AI & Data for Business & Society; Inria, CNRS, ENS de Lyon, Université Claude Bernard Lyon 1, LIP"
+license: MIT
+doi: "10.5281/zenodo.24171175"
+repository-code: "https://github.com/antounyaacoub/llm-agent-attack-harden-reattack"
